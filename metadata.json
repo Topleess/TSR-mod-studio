@@ -1,0 +1,5 @@
+{
+  "name": "RehabTracker",
+  "description": "A mobile-first application for tracking Technical Rehabilitation Means (ТСР) for people with disabilities.",
+  "requestFramePermissions": []
+}
